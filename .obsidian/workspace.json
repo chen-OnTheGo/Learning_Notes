@@ -221,6 +221,7 @@
   },
   "active": "d4f6f04f51490a00",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "img/微信图片_20250115192357.jpg",
     "img/微信图片_20250115180330.jpg",
     "img/屏幕录制 2025-08-04 19344.gif",
@@ -239,6 +240,25 @@
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
     "C/读C_Primer_Plus/示例解释.md",
     "C/读C_Primer_Plus/初始C语言.md",
+=======
+    "img/Pasted image 20250922133402.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
+    "Git/传项目到github远程仓库.md",
+    "Git",
+    "img/Pasted image 20250919220819.png",
+    "img/Pasted image 20250919220643.png",
+    "img/Pasted image 20250919220233.png",
+    "img/Pasted image 20250919215151.png",
+    "img/Pasted image 20250919214424.png",
+    "img/Pasted image 20250919214239.png",
+    "img/Pasted image 20250919214104.png",
+    "img/Pasted image 20250919213305.png",
+    "img/Pasted image 20250919213202.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
+    "C/读C_Primer_Plus/示例解释.md",
+    "C/读C_Primer_Plus/初始C语言.md",
+    "img/Pasted image 20250918205752.png",
+>>>>>>> 4926bc9 (first commit)
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction：the Stack.md",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/预览.md",
@@ -262,6 +282,10 @@
     "项目所备知识/Nand2Tetris/机器语言/输入输出设备.md",
     "项目所备知识/Nand2Tetris/机器语言/Pointers、Input、Output.md",
     "项目所备知识/Nand2Tetris/计算机结构/Item demand——Hack Computer.md",
+<<<<<<< HEAD
+=======
+    "项目所备知识/数学建模/A国赛/国赛.md",
+>>>>>>> 4926bc9 (first commit)
     "项目所备知识/数学建模/A国赛/Q3",
     "项目所备知识/数学建模/A国赛",
     "未命名.base",
