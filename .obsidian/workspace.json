@@ -1,80 +1,41 @@
 {
   "main": {
-    "id": "8988b3a363b7921f",
+    "id": "5d1b381293e57c2f",
     "type": "split",
     "children": [
       {
-        "id": "168d2f0f46ca9163",
+        "id": "5e88bb32010d77f6",
         "type": "tabs",
         "children": [
           {
-            "id": "1d07e145b281cd52",
+            "id": "78f94dbc49961724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/Nand2Teris/计算机结构/CPU（中央处理器）.md",
+                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU（中央处理器）"
-            }
-          },
-          {
-            "id": "9afbff922fc5e506",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "f809642335c12138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目所备知识/数学建模/AA注.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AA注"
-            }
-          },
-          {
-            "id": "d4f6f04f51490a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/传项目到github远程仓库.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传项目到github远程仓库"
+              "title": "调试"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "712d026f3d4f4bb8",
+    "id": "e465f6de31afb116",
     "type": "split",
     "children": [
       {
-        "id": "697521664850bc66",
+        "id": "30c69d47a8a03383",
         "type": "tabs",
         "children": [
           {
-            "id": "49244097da5f1d6e",
+            "id": "4e4df86a885ede0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +48,7 @@
             }
           },
           {
-            "id": "52fc7d8312a8a859",
+            "id": "ac0292cbdf1c4910",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +65,7 @@
             }
           },
           {
-            "id": "120efa8279235247",
+            "id": "08b16aba8e9d8ad6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 300
   },
   "right": {
-    "id": "84db92e9b5aefbe6",
+    "id": "94b595cbbc2108bf",
     "type": "split",
     "children": [
       {
-        "id": "1a92c8f0d77bde12",
+        "id": "571ada2e3e1ddffe",
         "type": "tabs",
         "children": [
           {
-            "id": "15f00e0764ca3369",
+            "id": "d73cdd43b60566a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Node.js/常见的服务程序.md",
+                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "常见的服务程序 的反向链接列表"
+              "title": "调试 的反向链接列表"
             }
           },
           {
-            "id": "6639e15c8560e550",
+            "id": "dab65e22d7dd0ee9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Vue/普通组件的注册.md",
+                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "普通组件的注册 的出链列表"
+              "title": "调试 的出链列表"
             }
           },
           {
-            "id": "32229d8103ba6bc0",
+            "id": "6ebcdc2d51cc9fa2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,124 +137,59 @@
             }
           },
           {
-            "id": "3fc40b7fe52f1ee9",
+            "id": "6047557b1dfb9b71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Vue/普通组件的注册.md",
+                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "普通组件的注册 的大纲"
-            }
-          },
-          {
-            "id": "9d834196af33e127",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "调试 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d4f6f04f51490a00",
+  "active": "78f94dbc49961724",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "img/微信图片_20250115192357.jpg",
-    "img/微信图片_20250115180330.jpg",
-    "img/屏幕录制 2025-08-04 19344.gif",
-    "img/屏幕录制 2025-08-04 193411.gif",
-    "img/屏幕录制 2025-08-04 193152.gif",
-    "img/屏幕录制 2025-08-03 224552.gif",
-    "img/屏幕录制 2025-08-03 220950.gif",
-    "img/屏幕录制 2025-08-03 220858.gif",
-    "img/Pasted image 20250810212817.png",
-    "img/Pasted image 20250810212629.png",
-    "img/Pasted image 20250810211109.png",
-    "README.md",
+    "C/读C_Primer_Plus/C语言概述/提高程序可读性的技巧.md",
+    "C/读C_Primer_Plus/C语言概述/调试.md",
+    "C/读C_Primer_Plus/C语言概述",
+    "C/读C_Primer_Plus/C语言概述/示例解释.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
+    "img/Pasted image 20250922213808.png",
+    "img/Pasted image 20250922202117.png",
+    "img/Pasted image 20250922201213.png",
+    "img/Pasted image 20250922200231.png",
+    "img/Pasted image 20250922195635.png",
+    "img/Pasted image 20250922194910.png",
+    "img/Pasted image 20250922193540.png",
+    "img/Pasted image 20250922165839.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement",
+    "随笔/2025_9_22_周总结.md",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
     "Git/传项目到github远程仓库.md",
-    "Git",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
-    "C/读C_Primer_Plus/示例解释.md",
-    "C/读C_Primer_Plus/初始C语言.md",
-=======
-    "img/Pasted image 20250922133402.png",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
-    "Git/传项目到github远程仓库.md",
-    "Git",
-    "img/Pasted image 20250919220819.png",
-    "img/Pasted image 20250919220643.png",
-    "img/Pasted image 20250919220233.png",
-    "img/Pasted image 20250919215151.png",
-    "img/Pasted image 20250919214424.png",
-    "img/Pasted image 20250919214239.png",
-    "img/Pasted image 20250919214104.png",
-    "img/Pasted image 20250919213305.png",
-    "img/Pasted image 20250919213202.png",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
-    "C/读C_Primer_Plus/示例解释.md",
-    "C/读C_Primer_Plus/初始C语言.md",
-    "img/Pasted image 20250918205752.png",
->>>>>>> 4926bc9 (first commit)
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction：the Stack.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/预览.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/模块概述.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机",
-    "项目所备知识/Nand2Tetris/虚拟机/未命名.md",
-    "项目所备知识/Nand2Tetris/机器语言/Item demand.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术",
-    "项目所备知识/Nand2Tetris/虚拟机",
-    "项目所备知识/Nand2Tetris/机器语言/register and memory(寄存器和内存).md",
-    "项目所备知识/Nand2Tetris/机器语言/Hack语言规范.md",
-    "项目所备知识/数学建模/AA注.md",
-    "项目所备知识/数学建模/论文写作注意/一、问题重述.md",
-    "项目所备知识/数学建模/论文写作注意/二、问题分析.md",
-    "项目所备知识/Nand2Tetris/内存/Memory（内存）.md",
-    "项目所备知识/Nand2Tetris/汇编器/汇编语言和汇编程序.md",
-    "项目所备知识/Nand2Tetris/汇编器/未命名.md",
-    "项目所备知识/Nand2Tetris/机器语言/介绍.md",
-    "Frontend/Vue/$nextTick.md",
-    "项目所备知识/Nand2Tetris/机器语言/Branching、Variables and Iteration.md",
-    "项目所备知识/Nand2Tetris/机器语言/输入输出设备.md",
-    "项目所备知识/Nand2Tetris/机器语言/Pointers、Input、Output.md",
-    "项目所备知识/Nand2Tetris/计算机结构/Item demand——Hack Computer.md",
-<<<<<<< HEAD
-=======
-    "项目所备知识/数学建模/A国赛/国赛.md",
->>>>>>> 4926bc9 (first commit)
-    "项目所备知识/数学建模/A国赛/Q3",
-    "项目所备知识/数学建模/A国赛",
-    "未命名.base",
-    "项目所备知识/数学建模/模糊综合评价模型.pdf",
-    "项目所备知识/数学建模/主成分分析",
-    "计算机硬件.canvas",
-    "COA/计算机的发展.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "img/Pasted image 20250922142206.png",
+    "img/Pasted image 20250922142107.png"
   ]
 }
