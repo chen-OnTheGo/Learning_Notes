@@ -81,3 +81,6 @@ git push -u origin main  # 推送到远程
 - 清缓存那一步（可能）
 - 上推是文件要关掉
 
+
+
+`git push`和`git push -u origin main`有什么区别？
