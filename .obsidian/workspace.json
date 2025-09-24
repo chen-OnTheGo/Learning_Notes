@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/读C_Primer_Plus/数据和C/C语言基本数据类型.md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言基本数据类型"
+              "title": "Memory Segments"
             }
           }
         ]
@@ -172,27 +172,32 @@
   },
   "active": "78f94dbc49961724",
   "lastOpenFiles": [
-    "C/读C_Primer_Plus/数据和C/数据.md",
+    "img/Pasted image 20250924221834.png",
+    "img/Pasted image 20250924221110.png",
+    "img/Pasted image 20250924170534.png",
+    "img/Pasted image 20250924170213.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
+    "COA/计算机系统体系结构.md",
+    "COA/计算机的发展.canvas",
+    "COA/大学期末复习知识点.md",
+    "Git/传项目到github远程仓库.md",
     "C/读C_Primer_Plus/数据和C/C语言基本数据类型.md",
+    "C/读C_Primer_Plus/数据和C/数据.md",
     "img/Pasted image 20250923220845.png",
     "img/Pasted image 20250923215645.png",
     "C/读C_Primer_Plus/C语言概述/提高程序可读性的技巧.md",
     "C/读C_Primer_Plus/数据和C",
-    "Git/传项目到github远程仓库.md",
     "C/读C_Primer_Plus/C语言概述/调试.md",
     "C/读C_Primer_Plus/C语言概述",
     "C/读C_Primer_Plus/C语言概述/示例解释.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
     "img/Pasted image 20250922213808.png",
     "img/Pasted image 20250922202117.png",
     "img/Pasted image 20250922201213.png",
     "img/Pasted image 20250922200231.png",
     "img/Pasted image 20250922195635.png",
-    "img/Pasted image 20250922194910.png",
-    "img/Pasted image 20250922193540.png",
-    "img/Pasted image 20250922165839.png",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement",
-    "随笔/2025_9_22_周总结.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md"
+    "随笔/2025_9_22_周总结.md"
   ]
 }
