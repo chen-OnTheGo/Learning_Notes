@@ -32,7 +32,7 @@
 其Memory Segments Command如下：
 ![](../../../../../../img/Pasted%20image%2020250919215151.png)
 
-你可能会问，既然`constant`中的每个片段的值与索引值相同，为什么不能把`push constant 17`写成`push 17`？事实上，是为了与其他片段引用的语法保持一致，即`push/pop segment i`。
+你可能会问，既然`constant`中的每个片段的值与索引值相同，为什么不能把`push constant 17`写成`push 17`？其实，是为了与其他片段引用的语法保持一致，即`push/pop segment i`。
 
 实际上，我们有的不止四个内存段，而是有八个：
 `local`、`argument`、`this`、`that`、`constant`、`static`、`pointer`、`temp`。
@@ -46,21 +46,23 @@
 push segment i
 ```
 
-就能把 `segment` 段里第 `i` 个元素的值压入栈。这里的 `segment` 可以是八个段之一，而 `i` 就是一个非负整数索引。
-对应的 `pop segment i` 则会把栈顶的值弹出并存入 `segment[i]`。
+==就能把 `segment` 段里第 `i` 个元素的值压入栈。==这里的 `segment` 可以是八个段之一，而 `i` 就是一个非负整数索引。
+==对应的 `pop segment i` 则会把栈顶的值弹出并存入 `segment[i]`。==
 唯一的例外是 **constant 段**，因为常量本质上只是一个立即数，不存在可以存储的“位置”，所以它只支持 `push constant i`（把常量 i 压入栈），而不支持 `pop constant i`（因为没地方“存”常量）。
 
 在下图的情况下如何操作才能实现`let static 2 = argument 1` ？
 ![](../../../../../../img/Pasted%20image%2020250919220643.png)
 
-通过操作
+通过操作：
 ```
 push argument 1
 pop static 2
 ```
+先将`argument 1`中的值压入栈中，然后将栈顶的值（`argument 1`）弹出，存入`static 2`中。
+
 得到以下结果：
 ![](../../../../../../img/Pasted%20image%2020250919220819.png)
 
-整个过程中，我们从stack中添加了一些东西，又拿走了一些东西。在运行结束后，stack完好无损，相较之前没有变化。操作的结果是，我们将一些内容从一个Memory Segment中转移到另一个Memory Segment中。在我们的VM抽象中，这将是将值从一个Segment移动到另一个Segment的唯一方法。
+整个过程中，我们从stack中添加了一些东西，又拿走了一些东西。在运行结束后，stack完好无损，相较之前没有变化。操作的结果是，我们将一些内容从一个Memory Segment（`argument`）中转移到另一个Memory Segment（`static`）中。在本课程的VM抽象中，这将是将值从一个Segment移动到另一个Segment的唯一方法。
 
 下一节，我们将继续讨论如何实现这些命令并运行它们。
