@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/梧桐杯/pre.md",
+                "file": "LeetCode/2025_10_17_回文数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pre"
+              "title": "2025_10_17_回文数"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目所备知识/梧桐杯/pre.md",
+                "file": "LeetCode/2025_10_17_回文数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "pre 的反向链接列表"
+              "title": "2025_10_17_回文数 的反向链接列表"
             }
           },
           {
@@ -186,8 +186,19 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
     "项目所备知识/梧桐杯/pre.md",
+    "LeetCode/2025_10_17_回文数.md",
+    "LeetCode",
+    "img/Pasted image 20251016225851.png",
+    "img/Pasted image 20251016223914.png",
+    "img/Pasted image 20251016220354.png",
+    "img/Pasted image 20251016215941.png",
+    "img/Pasted image 20251016215351.png",
+    "img/Pasted image 20251016214659.png",
+    "img/Pasted image 20251016214458.png",
+    "img/Pasted image 20251016214354.png",
+    "img/Pasted image 20251016211912.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
     "项目所备知识/梧桐杯",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
@@ -201,15 +212,6 @@
     "C/读C_Primer_Plus/数据和C/C语言基本数据类型.md",
     "Operating System/MIT 6.S081",
     "Operating System",
-    "img/Pasted image 20250925210530.png",
-    "img/Pasted image 20250925205202.png",
-    "img/Pasted image 20250925205147.png",
-    "img/Pasted image 20250925203740.png",
-    "img/Pasted image 20250925203709.png",
-    "img/Pasted image 20250925203551.png",
-    "img/Pasted image 20250925200633.png",
-    "img/Pasted image 20250925194831.png",
-    "img/Pasted image 20250925194713.png",
     "项目所备知识/Nand2Tetris/机器语言/Branching、Variables and Iteration.md",
     "项目所备知识/Nand2Tetris/机器语言/Pointers、Input、Output.md",
     "项目所备知识/Nand2Tetris/机器语言/NOP slide.md",
