@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2025_10_17_回文数.md",
+                "file": "项目所备知识/梧桐杯/pre3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_10_17_回文数"
+              "title": "pre3"
+            }
+          },
+          {
+            "id": "6a3c451aeeb7d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/读《月亮与六便士》.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "读《月亮与六便士》"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/2025_10_17_回文数.md",
+                "file": "Reading/读《月亮与六便士》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025_10_17_回文数 的反向链接列表"
+              "title": "读《月亮与六便士》 的反向链接列表"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
+                "file": "项目所备知识/梧桐杯/pre3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "调试 的出链列表"
+              "title": "pre3 的出链列表"
             }
           },
           {
@@ -170,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,51 +198,54 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "feb048744fe4dc6f",
+  "active": "6a3c451aeeb7d4b6",
   "lastOpenFiles": [
-    "项目所备知识/梧桐杯/pre.md",
-    "LeetCode/2025_10_17_回文数.md",
-    "LeetCode",
-    "img/Pasted image 20251016225851.png",
-    "img/Pasted image 20251016223914.png",
-    "img/Pasted image 20251016220354.png",
-    "img/Pasted image 20251016215941.png",
-    "img/Pasted image 20251016215351.png",
-    "img/Pasted image 20251016214659.png",
-    "img/Pasted image 20251016214458.png",
-    "img/Pasted image 20251016214354.png",
-    "img/Pasted image 20251016211912.png",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
-    "项目所备知识/梧桐杯",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/在Hack平台上实现虚拟机.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/预览.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/模块概述.md",
-    "Operating System/MIT 6.S081/课程目标.md",
-    "欢迎.md",
-    "img/Pasted image 20251010110516.png",
-    "C/读C_Primer_Plus/数据和C/C语言基本数据类型.md",
-    "Operating System/MIT 6.S081",
-    "Operating System",
-    "项目所备知识/Nand2Tetris/机器语言/Branching、Variables and Iteration.md",
-    "项目所备知识/Nand2Tetris/机器语言/Pointers、Input、Output.md",
-    "项目所备知识/Nand2Tetris/机器语言/NOP slide.md",
-    "项目所备知识/Nand2Tetris/机器语言/Item demand.md",
-    "项目所备知识/Nand2Tetris/机器语言/Hack语言规范.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
-    "COA/计算机系统体系结构.md",
-    "COA/计算机的发展.canvas",
-    "COA/大学期末复习知识点.md",
-    "Git/传项目到github远程仓库.md",
-    "C/读C_Primer_Plus/数据和C/数据.md",
-    "C/读C_Primer_Plus/C语言概述/提高程序可读性的技巧.md",
-    "C/读C_Primer_Plus/数据和C",
-    "C/读C_Primer_Plus/C语言概述/调试.md",
-    "C/读C_Primer_Plus/C语言概述",
-    "C/读C_Primer_Plus/C语言概述/示例解释.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement",
-    "随笔/2025_9_22_周总结.md"
+    "DatabaseSystem/college/课设/构思.md",
+    "Reading/读《月亮与六便士》.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/数据库设计/需求分析.md",
+    "img/Pasted image 20251201131253.png",
+    "img/Pasted image 20251201131220.png",
+    "img/Pasted image 20251201131155.png",
+    "img/Pasted image 20251201131138.png",
+    "img/Pasted image 20251201131125.png",
+    "img/Pasted image 20251201131107.png",
+    "img/Pasted image 20251201131045.png",
+    "img/Pasted image 20251201131032.png",
+    "DatabaseSystem/大学复习（b站张宗辉）/数据库设计/基本步骤.md",
+    "DatabaseSystem/college/课设",
+    "DatabaseSystem/college",
+    "img/Pasted image 20251201110417.png",
+    "img/Pasted image 20251130231800.png",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/多表查询及索引优化/多表查询.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/数据库设计",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询/投影列.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询/SQL概述.md",
+    "DatabaseSystem/注意！！.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/习题.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/数据库表定义和增删改操作",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/多表查询及索引优化",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询",
+    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL",
+    "DatabaseSystem/大学复习（b站张宗辉）/绪论/未命名.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作/专门的关系运算.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系的完整性约束.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作/传统的集合运算.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/关系的本质认识.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/直观认识.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/数据模型.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/数据库系统结构.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/复习.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/概念（信息）模型.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/初步认识建码.md",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构",
+    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库",
+    "Reading/读《UNIX传奇》.md",
+    "Frontend/Vue/插槽.md",
+    "Frontend/Vue/Vue 生命周期.md",
+    "Frontend/Vue/计算属性.md",
+    "Machine learning/Unsupervised learning（无监督学习）.md",
+    "COA/计算机的发展.canvas"
   ]
 }
