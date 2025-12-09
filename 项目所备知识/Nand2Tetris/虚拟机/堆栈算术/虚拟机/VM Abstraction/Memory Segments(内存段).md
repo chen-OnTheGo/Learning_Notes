@@ -65,4 +65,4 @@ pop static 2
 
 整个过程中，我们从stack中添加了一些东西，又拿走了一些东西。在运行结束后，stack完好无损，相较之前没有变化。操作的结果是，我们将一些内容从一个Memory Segment（`argument`）中转移到另一个Memory Segment（`static`）中。在本课程的VM抽象中，这将是将值从一个Segment移动到另一个Segment的唯一方法。
 
-下一节，我们将继续讨论如何实现这些命令并运行它们。
+[下一节](../VM%20implement/the%20Stack.md)，我们将继续讨论如何实现这些命令并运行它们。

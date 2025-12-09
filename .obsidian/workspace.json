@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/梧桐杯/pre3.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/一些指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pre3"
-            }
-          },
-          {
-            "id": "6a3c451aeeb7d4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/读《月亮与六便士》.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "读《月亮与六便士》"
+              "title": "一些指令"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "94b595cbbc2108bf",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/读《月亮与六便士》.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/一些指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "读《月亮与六便士》 的反向链接列表"
+              "title": "一些指令 的反向链接列表"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目所备知识/梧桐杯/pre3.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/一些指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "pre3 的出链列表"
+              "title": "一些指令 的出链列表"
             }
           },
           {
@@ -171,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/读C_Primer_Plus/C语言概述/调试.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/一些指令.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "调试 的大纲"
+              "title": "一些指令 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,54 +185,55 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6a3c451aeeb7d4b6",
+  "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
-    "DatabaseSystem/college/课设/构思.md",
-    "Reading/读《月亮与六便士》.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/数据库设计/需求分析.md",
-    "img/Pasted image 20251201131253.png",
-    "img/Pasted image 20251201131220.png",
-    "img/Pasted image 20251201131155.png",
-    "img/Pasted image 20251201131138.png",
-    "img/Pasted image 20251201131125.png",
-    "img/Pasted image 20251201131107.png",
-    "img/Pasted image 20251201131045.png",
-    "img/Pasted image 20251201131032.png",
-    "DatabaseSystem/大学复习（b站张宗辉）/数据库设计/基本步骤.md",
+    "Linux/学《鸟哥的LINUX私房菜》/第4章/日志.md",
+    "img/Pasted image 20251209220617.png",
+    "Linux/学《鸟哥的LINUX私房菜》/一些指令.md",
+    "Linux/学《鸟哥的LINUX私房菜》/第4章/4.2命令模式下命令的执行.md",
+    "Linux/学《鸟哥的LINUX私房菜》/第4章",
+    "ComputerNetwork/三种交换方式.md",
+    "Linux/未命名.canvas",
+    "img/Pasted image 20251209195703.png",
+    "img/Pasted image 20251209193004.png",
+    "img/Pasted image 20251209192900.png",
+    "img/Pasted image 20251209192759.png",
+    "ComputerNetwork/因特网概述.md",
+    "img/Pasted image 20251209192442.png",
+    "img/Pasted image 20251209191656.png",
+    "img/Pasted image 20251209190955.png",
+    "img/Pasted image 20251209185632.png",
+    "img/Pasted image 20251209185143.png",
+    "Git/传项目到github远程仓库.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/the Stack.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/在Hack平台上实现虚拟机.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/project7Q&A.md",
+    "项目所备知识/Nand2Tetris/虚拟机/未命名 1.md",
+    "项目所备知识/Nand2Tetris/内存/Memory（内存）.md",
+    "项目所备知识/Nand2Tetris/计算机结构/Item demand——Hack Computer.md",
+    "未命名.canvas",
+    "2025-12-09.md",
+    "项目所备知识/Nand2Tetris/机器语言/Hack语言规范.md",
+    "Frontend/Ajax/如何判断XHR是否成功响应.md",
+    "项目所备知识/Nand2Tetris/机器语言/Pointers、Input、Output.md",
+    "项目所备知识/Nand2Tetris/机器语言/Branching、Variables and Iteration.md",
+    "项目所备知识/Nand2Tetris/机器语言/register and memory(寄存器和内存).md",
+    "项目所备知识/Nand2Tetris/计算机结构/Hack计算机的整体架构.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/预览.md",
+    "项目所备知识/Nand2Tetris/计算机结构/CPU（中央处理器）.md",
+    "项目所备知识/Nand2Tetris/计算机结构/冯 · 诺伊曼结构.md",
+    "Linux/学《鸟哥的LINUX私房菜》/第0章_计算机概论",
+    "Linux/学《鸟哥的LINUX私房菜》",
+    "Linux",
     "DatabaseSystem/college/课设",
     "DatabaseSystem/college",
-    "img/Pasted image 20251201110417.png",
-    "img/Pasted image 20251130231800.png",
-    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/多表查询及索引优化/多表查询.md",
     "DatabaseSystem/大学复习（b站张宗辉）/数据库设计",
-    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询/投影列.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询/SQL概述.md",
-    "DatabaseSystem/注意！！.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/习题.md",
     "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/数据库表定义和增删改操作",
     "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/多表查询及索引优化",
     "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL/单表查询",
-    "DatabaseSystem/大学复习（b站张宗辉）/三、关系数据库标准语言SQL",
-    "DatabaseSystem/大学复习（b站张宗辉）/绪论/未命名.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作/专门的关系运算.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系的完整性约束.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作/传统的集合运算.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/关系的本质认识.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/直观认识.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/数据模型.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/数据库系统结构.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/复习.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/一、绪论/概念（信息）模型.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构/初步认识建码.md",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系操作",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库/关系结构",
-    "DatabaseSystem/大学复习（b站张宗辉）/二、关系数据库",
-    "Reading/读《UNIX传奇》.md",
-    "Frontend/Vue/插槽.md",
-    "Frontend/Vue/Vue 生命周期.md",
-    "Frontend/Vue/计算属性.md",
-    "Machine learning/Unsupervised learning（无监督学习）.md",
     "COA/计算机的发展.canvas"
   ]
 }
