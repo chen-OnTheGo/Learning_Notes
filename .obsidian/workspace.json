@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
+                "file": "LeetCode/摆动序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux文件权限概念"
+              "title": "摆动序列"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
+                "file": "LeetCode/摆动序列.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux文件权限概念 的大纲"
+              "title": "摆动序列 的大纲"
             }
           }
         ],
@@ -187,36 +187,39 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
-    "Linux/发现/cd问题.md",
+    "img/4eb7f1b3026beb92e82aebf14768443d.jpg",
+    "img/b83fb79bd65a2d60de144d367aa299d5.jpg",
+    "img/f232f3fa116fa561be444160e1f6edd6.jpg",
+    "img/9e24a3bf1f772b85ee70236f6cdeab80.jpg",
+    "img/d520b93ddf6df26e079cf739fbdafeac.jpg",
+    "img/7d6bc078680454138cf97149ca912a2f.jpg",
+    "img/734dc8e7979663e877de7f9d3d8500fe.jpg",
+    "img/7635a8b7edbaddafee25911d8b1151f5.jpg",
+    "img/c12be51198bee8fba932dbbbf0d6487c.jpg",
+    "img/b196a8a4f10fd6116bae8a8c3a33ea94.jpg",
+    "img/afaf139602953883c928d24b0d9f9be2.jpg",
+    "项目所备知识/梧桐杯/省决赛/数据处理.md",
+    "LeetCode/摆动序列.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
-    "img/Pasted image 20251214200924.png",
+    "Linux/发现/cd问题.md",
     "Linux/发现/一些指令.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.1_用户和用户组.md",
     "Linux/发现",
-    "img/Pasted image 20251214200541.png",
-    "img/Pasted image 20251214200358.png",
     "项目所备知识/Nand2Tetris/虚拟机/未命名 1.md",
     "项目所备知识/AAA!!!.md",
     "项目所备知识/Nand2Tetris/虚拟机/未命名.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "项目所备知识/梧桐杯/省决赛/构思.md",
-    "img/Pasted image 20251213210631.png",
-    "img/Pasted image 20251213210614.png",
-    "img/Pasted image 20251213210553.png",
     "项目所备知识/梧桐杯/省初赛/backtoBegin.md",
     "项目所备知识/梧桐杯/省决赛",
     "LeetCode/二分查找mid计算区别.md",
     "项目所备知识/梧桐杯/省初赛",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "ComputerNetwork/计算机网络的性能指标.md",
-    "img/Pasted image 20251211115121.png",
-    "img/Pasted image 20251211113414.png",
-    "img/Pasted image 20251211113205.png",
     "ComputerNetwork/计算机网络的定义和分类.md",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/日志.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式",
-    "img/Pasted image 20251210223612.png",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.5 正确的关机方法.md",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.3.4其他有用的文件.md",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.2命令模式下命令的执行.md",
@@ -228,9 +231,6 @@
     "Linux/未命名.canvas",
     "ComputerNetwork/因特网概述.md",
     "Git/传项目到github远程仓库.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
     "未命名.canvas",
     "Linux/学《鸟哥的LINUX私房菜》/第0章_计算机概论",
     "Linux/学《鸟哥的LINUX私房菜》",
