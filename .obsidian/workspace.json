@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/梧桐杯/省决赛/前端.md",
+                "file": "LeetCode/贪心算法/买卖股票的最佳时机 II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端"
+              "title": "买卖股票的最佳时机 II"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目所备知识/梧桐杯/省决赛/前端.md",
+                "file": "LeetCode/贪心算法/买卖股票的最佳时机 II.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "前端 的大纲"
+              "title": "买卖股票的最佳时机 II 的大纲"
             }
           }
         ],
@@ -187,12 +187,15 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
-    "项目所备知识/梧桐杯/省决赛/构思.md",
+    "img/Pasted image 20251217153232.png",
+    "LeetCode/贪心算法/贪心——最大子数组和.md",
+    "LeetCode/贪心算法/买卖股票的最佳时机 II.md",
+    "LeetCode/贪心算法/摆动序列.md",
     "项目所备知识/梧桐杯/省决赛/前端.md",
+    "LeetCode/贪心算法",
+    "项目所备知识/梧桐杯/省决赛/构思.md",
     "项目所备知识/梧桐杯/省决赛/数据处理.md",
     "项目所备知识/梧桐杯/省决赛/为什么非Z时代用户的数据也要用.md",
-    "LeetCode/贪心——最大子数组和.md",
-    "LeetCode/摆动序列.md",
     "LeetCode/二分查找mid计算区别.md",
     "img/4eb7f1b3026beb92e82aebf14768443d.jpg",
     "img/b83fb79bd65a2d60de144d367aa299d5.jpg",
@@ -226,15 +229,12 @@
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.3.4其他有用的文件.md",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.2命令模式下命令的执行.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Module4概述.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/模块概述.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制",
     "Linux/学《鸟哥的LINUX私房菜》/第4章",
-    "ComputerNetwork/三种交换方式.md",
     "Linux/未命名.canvas",
     "未命名.canvas",
     "Linux/学《鸟哥的LINUX私房菜》/第0章_计算机概论",
     "Linux/学《鸟哥的LINUX私房菜》",
-    "Linux",
     "COA/计算机的发展.canvas"
   ]
 }
