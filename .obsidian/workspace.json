@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerNetwork/计算机网络的性能指标.md",
+                "file": "ComputerNetwork/计算机网络体系结构/常见的计算机网络体系结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络的性能指标"
+              "title": "常见的计算机网络体系结构"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ISP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerNetwork/计算机网络的性能指标.md",
+                "file": "ComputerNetwork/计算机网络体系结构/常见的计算机网络体系结构.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算机网络的性能指标 的大纲"
+              "title": "常见的计算机网络体系结构 的大纲"
             }
           }
         ],
@@ -187,22 +187,24 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
+    "img/Pasted image 20251222203154.png",
+    "img/Pasted image 20251222202923.png",
+    "ComputerNetwork/计算机网络的性能指标.md",
+    "ComputerNetwork/计算机网络体系结构/常见的计算机网络体系结构.md",
+    "ComputerNetwork/计算机网络体系结构",
+    "img/Pasted image 20251222194228.png",
+    "ComputerNetwork/因特网概述.md",
+    "ComputerNetwork/网络总时延中谁占主导.md",
+    "ComputerNetwork/三种交换方式.md",
+    "ComputerNetwork/计算机网络的定义和分类.md",
+    "img/Pasted image 20251222191751.png",
+    "img/Pasted image 20251222191707.png",
+    "img/Pasted image 20251222191549.png",
     "img/Pasted image 20251222152917.png",
     "img/Pasted image 20251222152651.png",
     "img/Pasted image 20251222152520.png",
     "img/Pasted image 20251222152207.png",
-    "ComputerNetwork/网络总时延中谁占主导.md",
-    "ComputerNetwork/三种交换方式.md",
-    "ComputerNetwork/计算机网络的性能指标.md",
-    "ComputerNetwork/因特网概述.md",
-    "ComputerNetwork/计算机网络的定义和分类.md",
     "img/Pasted image 20251222151611.png",
-    "img/Pasted image 20251222151542.png",
-    "img/Pasted image 20251222150529.png",
-    "img/Pasted image 20251222150254.png",
-    "img/Pasted image 20251222150143.png",
-    "img/Pasted image 20251222143758.png",
-    "img/Pasted image 20251222143030.png",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "Reading/读《活在此时此刻》.md",
     "项目所备知识/梧桐杯/省决赛/数据处理.md",
@@ -223,7 +225,6 @@
     "LeetCode/二分查找mid计算区别.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
     "Linux/发现/cd问题.md",
-    "Linux/发现/一些指令.md",
     "Linux/发现",
     "项目所备知识/梧桐杯/省决赛",
     "项目所备知识/梧桐杯/省初赛",
@@ -234,7 +235,6 @@
     "Linux/未命名.canvas",
     "未命名.canvas",
     "Linux/学《鸟哥的LINUX私房菜》/第0章_计算机概论",
-    "Linux/学《鸟哥的LINUX私房菜》",
     "COA/计算机的发展.canvas"
   ]
 }
