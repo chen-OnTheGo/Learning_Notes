@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/读《活在此时此刻》.md",
+                "file": "LeetCode/贪心算法/134. 加油站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读《活在此时此刻》"
+              "title": "134. 加油站"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/读《活在此时此刻》.md",
+                "file": "LeetCode/贪心算法/134. 加油站.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "读《活在此时此刻》 的大纲"
+              "title": "134. 加油站 的大纲"
             }
           }
         ],
@@ -187,10 +187,11 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
+    "Reading/读《活在此时此刻》.md",
+    "LeetCode/贪心算法/134. 加油站.md",
     "vim/感兴趣.md",
     "2025-02-27.md",
     "2025-12-09.md",
-    "Reading/读《活在此时此刻》.md",
     "LeetCode/K 次取反后最大化的数组和.md",
     "LeetCode/贪心算法/未命名.md",
     "Git/删除子模块.md",
@@ -225,7 +226,6 @@
     "项目所备知识/梧桐杯/省决赛/构思阶段/前端.md",
     "项目所备知识/梧桐杯/省决赛/构思阶段/构思4.md",
     "项目所备知识/梧桐杯/省决赛/构思阶段/构思3——盲盒.md",
-    "项目所备知识/梧桐杯/省决赛/构思阶段/构思2.md",
     "LeetCode/贪心算法",
     "Linux/发现",
     "项目所备知识/梧桐杯/省决赛",
