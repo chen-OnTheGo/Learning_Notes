@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/贪心算法/134. 加油站.md",
+                "file": "LeetCode/贪心算法/406. 根据身高重建队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "134. 加油站"
+              "title": "406. 根据身高重建队列"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/贪心算法/134. 加油站.md",
+                "file": "LeetCode/贪心算法/406. 根据身高重建队列.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "134. 加油站 的大纲"
+              "title": "406. 根据身高重建队列 的大纲"
             }
           }
         ],
@@ -187,8 +187,23 @@
   },
   "active": "feb048744fe4dc6f",
   "lastOpenFiles": [
-    "Reading/读《活在此时此刻》.md",
+    "LeetCode/贪心算法/135.分发糖果.md",
+    "LeetCode/贪心算法/406. 根据身高重建队列.md",
+    "LeetCode/leetcode刷题的阶段感受.md",
+    "ComputerNetwork/计算机网络体系结构/常见的计算机网络体系结构.md",
+    "img/Pasted image 20251229120506.png",
+    "img/Pasted image 20251229115634.png",
+    "img/Pasted image 20251229115419.png",
+    "img/Pasted image 20251229115151.png",
+    "img/Pasted image 20251229114632.png",
+    "img/Pasted image 20251229114340.png",
+    "img/Pasted image 20251229114106.png",
+    "img/Pasted image 20251229113917.png",
+    "img/Pasted image 20251229113804.png",
+    "img/Pasted image 20251229113125.png",
+    "LeetCode/未命名.md",
     "LeetCode/贪心算法/134. 加油站.md",
+    "Reading/读《活在此时此刻》.md",
     "vim/感兴趣.md",
     "2025-02-27.md",
     "2025-12-09.md",
@@ -198,34 +213,19 @@
     "项目所备知识/梧桐杯/省决赛/未命名.md",
     "准备/未命名.md",
     "准备",
-    "img/Pasted image 20251224190543.png",
     "项目所备知识/梧桐杯/省决赛/构思阶段/数据处理.md",
     "项目所备知识/梧桐杯/省决赛/构思阶段",
     "Reading/读《我以为这辈子完蛋了》.md",
-    "ComputerNetwork/计算机网络体系结构/常见的计算机网络体系结构.md",
-    "img/Pasted image 20251222203154.png",
-    "img/Pasted image 20251222202923.png",
     "ComputerNetwork/计算机网络的性能指标.md",
     "ComputerNetwork/计算机网络体系结构",
-    "img/Pasted image 20251222194228.png",
     "ComputerNetwork/因特网概述.md",
     "ComputerNetwork/网络总时延中谁占主导.md",
     "ComputerNetwork/三种交换方式.md",
     "ComputerNetwork/计算机网络的定义和分类.md",
-    "img/Pasted image 20251222191751.png",
-    "img/Pasted image 20251222191707.png",
-    "img/Pasted image 20251222191549.png",
-    "img/Pasted image 20251222152917.png",
-    "img/Pasted image 20251222152651.png",
-    "img/Pasted image 20251222152520.png",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "Explore/Vue编译器对于文件大小写敏感.md",
     "Explore/Cursor资源管理器显示.md",
     "Git/传项目到github远程仓库.md",
-    "Frontend/Vue/工程化开发 & 脚手架 Vue CLI.md",
-    "项目所备知识/梧桐杯/省决赛/构思阶段/前端.md",
-    "项目所备知识/梧桐杯/省决赛/构思阶段/构思4.md",
-    "项目所备知识/梧桐杯/省决赛/构思阶段/构思3——盲盒.md",
     "LeetCode/贪心算法",
     "Linux/发现",
     "项目所备知识/梧桐杯/省决赛",
