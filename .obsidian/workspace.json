@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/读《玩笑》.md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读《玩笑》"
+              "title": "Functions(Abstraction)"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/读《玩笑》.md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "读《玩笑》 的大纲"
+              "title": "Functions(Abstraction) 的大纲"
             }
           }
         ],
@@ -229,14 +229,22 @@
   },
   "active": "5cd69fec9dca5b06",
   "lastOpenFiles": [
+    "img/Pasted image 20260223215610.png",
+    "img/Pasted image 20260223213803.png",
+    "img/Pasted image 20260223212504.png",
+    "img/Pasted image 20260223211940.png",
+    "img/Pasted image 20260223211304.png",
+    "img/Pasted image 20260223211029.png",
+    "img/Pasted image 20260223205425.png",
+    "img/Pasted image 20260223205249.png",
+    "img/Pasted image 20260223202656.png",
+    "img/Pasted image 20260223202637.png",
+    "img/Pasted image 20260216113123.png",
+    "Reading/读《玩笑》.md",
     "Reading/读《活在此时此刻》.md",
     "Reading/读《月亮与六便士》.md",
     "Reading/读《我以为这辈子完蛋了》.md",
-    "Reading/读《玩笑》.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
-    "img/Pasted image 20260205210549.png",
-    "img/Pasted image 20260205210156.png",
-    "img/Pasted image 20260205210043.png",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Module4概述.md",
     "LeetCode/贪心算法/452. 用最少数量的箭引爆气球.md",
@@ -257,17 +265,9 @@
     "Web/Frontend/Ajax/异步操作.md",
     "Web/Frontend/Ajax/未命名.md",
     "Web/Frontend/Ajax/同步代码和异步代码.md",
-    "Web/Frontend/Ajax/使用Promise和XHR获取省份列表案例.md",
     "Web/Backend/JDBC",
     "Web/Backend",
     "Web",
-    "img/Pasted image 20260105091842.png",
-    "img/Pasted image 20251229120506.png",
-    "img/Pasted image 20251229115634.png",
-    "img/Pasted image 20251229115419.png",
-    "img/Pasted image 20251229115151.png",
-    "img/Pasted image 20251229114632.png",
-    "img/Pasted image 20251229114340.png",
     "准备",
     "项目所备知识/梧桐杯/省决赛/构思阶段",
     "ComputerNetwork/计算机网络体系结构",
