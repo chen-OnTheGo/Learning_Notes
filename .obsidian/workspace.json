@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions(Abstraction)"
+              "title": "Implementation and Preview"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Functions(Abstraction) 的大纲"
+              "title": "Implementation and Preview 的大纲"
             }
           }
         ],
@@ -229,22 +229,24 @@
   },
   "active": "5cd69fec9dca5b06",
   "lastOpenFiles": [
+    "img/Pasted image 20260224220016.png",
+    "img/Pasted image 20260224215234.png",
+    "img/Pasted image 20260224214643.png",
+    "img/Pasted image 20260224213915.png",
+    "img/Pasted image 20260224213458.png",
+    "img/Pasted image 20260224213351.png",
+    "img/Pasted image 20260224212629.png",
+    "img/Pasted image 20260224201654.png",
+    "img/Pasted image 20260224200426.png",
+    "img/Pasted image 20260224200039.png",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return",
     "img/Pasted image 20260223215610.png",
-    "img/Pasted image 20260223213803.png",
-    "img/Pasted image 20260223212504.png",
-    "img/Pasted image 20260223211940.png",
-    "img/Pasted image 20260223211304.png",
-    "img/Pasted image 20260223211029.png",
-    "img/Pasted image 20260223205425.png",
-    "img/Pasted image 20260223205249.png",
-    "img/Pasted image 20260223202656.png",
-    "img/Pasted image 20260223202637.png",
-    "img/Pasted image 20260216113123.png",
     "Reading/读《玩笑》.md",
     "Reading/读《活在此时此刻》.md",
     "Reading/读《月亮与六便士》.md",
     "Reading/读《我以为这辈子完蛋了》.md",
-    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Module4概述.md",
     "LeetCode/贪心算法/452. 用最少数量的箭引爆气球.md",
@@ -264,7 +266,6 @@
     "Web/Frontend/Ajax/console.log()和console.dir()的区别.md",
     "Web/Frontend/Ajax/异步操作.md",
     "Web/Frontend/Ajax/未命名.md",
-    "Web/Frontend/Ajax/同步代码和异步代码.md",
     "Web/Backend/JDBC",
     "Web/Backend",
     "Web",
@@ -274,7 +275,6 @@
     "LeetCode/贪心算法",
     "Linux/发现",
     "项目所备知识/梧桐杯/省决赛",
-    "项目所备知识/梧桐杯/省初赛",
     "Linux/未命名.canvas",
     "未命名.canvas",
     "COA/计算机的发展.canvas"

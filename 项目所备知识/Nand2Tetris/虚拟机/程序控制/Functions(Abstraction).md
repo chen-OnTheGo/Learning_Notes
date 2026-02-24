@@ -94,5 +94,12 @@ Applying a primitive operator and calling a funtion have the same look-and-feel.
 ![](../../../../img/Pasted%20image%2020260223215610.png)
 
 当执行`return`指令时，其底层实现必须要做的事情：
-- 将`callee`的计算结果返回给`caller`。
-- 
+- 将`callee`的计算结果返回给`caller`。（这里有个隐含的假设就是：每个`callee`必须在执行`return`语句前`push`一个值到`stack`）
+- 回收`callee`使用的内存段和内存资源。（因为`callee`现在已经无关紧要）
+- 恢复或重新创建`caller`的`stack`和内存段。
+- 程序计数器跳回到`caller`的下一条指令。
+
+以上就是实现的要点。
+接下来的三个单元，我们就要来实现这些要点。
+[Implementation and Preview](Function%20Call%20and%20Return/Implementation%20and%20Preview.md)
+
