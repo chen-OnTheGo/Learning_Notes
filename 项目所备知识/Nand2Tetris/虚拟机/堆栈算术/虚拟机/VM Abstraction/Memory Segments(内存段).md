@@ -35,7 +35,7 @@
 你可能会问，既然`constant`中的每个片段的值与索引值相同，为什么不能把`push constant 17`写成`push 17`？其实，是为了与其他片段引用的语法保持一致，即`push/pop segment i`。
 
 实际上，我们有的不止四个内存段，而是有八个：
-`local`、`argument`、`this`、`that`、`constant`、`static`、`pointer`、`temp`。
+`local`、`argument`、`this`、`that`、`constant`、`static`、`pointer`、`temp`。 ^e73117
 
 为什么要细分这么多内存段？别忘了，这些内存段的分类来自于高级面向对象语言的世界，有静态变量、局部变量、参数变量，有一个方法正在处理的当前对象，这个对象也是一个变量包。也就是说，**内存段的细分是为了映射高级语言的语义，让虚拟机能正确执行来自不同作用域的变量操作**。
 
