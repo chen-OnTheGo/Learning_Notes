@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/实现.md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实现"
+              "title": "Proposed Implementation"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/实现.md",
+                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现 的大纲"
+              "title": "Proposed Implementation 的大纲"
             }
           }
         ],
@@ -229,24 +229,34 @@
   },
   "active": "5cd69fec9dca5b06",
   "lastOpenFiles": [
-    "img/Pasted image 20260226220051.png",
-    "img/Pasted image 20260226220029.png",
-    "img/Pasted image 20260226220011.png",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Detail Implementation.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/实现.md",
-    "img/Pasted image 20260226213644.png",
-    "img/Pasted image 20260226213618.png",
-    "img/Pasted image 20260226213557.png",
-    "img/Pasted image 20260226213529.png",
-    "img/Pasted image 20260226213503.png",
-    "img/Pasted image 20260226213439.png",
-    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Run-time Simulation.md",
-    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
-    "img/Pasted image 20260225212647.png",
-    "img/Pasted image 20260225212616.png",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
+    "项目所备知识/Nand2Tetris/内存/Memory（内存）.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Module4概述.md",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
+    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Run-time Simulation.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/在Hack平台上实现虚拟机.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/project7Q&A.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/预览.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/模块概述.md",
+    "项目所备知识/Nand2Tetris/虚拟机/未命名 1.md",
+    "项目所备知识/Nand2Tetris/虚拟机/未命名.md",
+    "img/Pasted image 20260227215026.png",
+    "img/Pasted image 20260227214925.png",
+    "img/Pasted image 20260227214950.png",
+    "img/Pasted image 20260227214836.png",
+    "img/Pasted image 20260227213623.png",
+    "img/Pasted image 20260227202208.png",
+    "img/Pasted image 20260227201747.png",
+    "img/Pasted image 20260227201443.png",
+    "img/Pasted image 20260227200650.png",
+    "img/Pasted image 20260226220051.png",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/Memory Segments(内存段).md",
     "项目所备知识/Nand2Tetris/机器语言/输入输出设备.md",
     "项目所备知识/Nand2Tetris/机器语言/Hack语言规范.md",
@@ -256,16 +266,6 @@
     "Reading/读《月亮与六便士》.md",
     "Reading/读《我以为这辈子完蛋了》.md",
     "LeetCode/贪心算法/452. 用最少数量的箭引爆气球.md",
-    "LeetCode/贪心算法/未命名.md",
-    "Web/Frontend/Vue/指令.md",
-    "Web/Frontend/Vue/修饰符 .sync.md",
-    "Web/Frontend/Vue/普通组件的注册.md",
-    "Web/Frontend/Vue/路由.md",
-    "Web/Frontend/Vue/快速上手.md",
-    "Web/Frontend/Vue/计算属性.md",
-    "Web/Frontend/Vue/工程化开发 & 脚手架 Vue CLI.md",
-    "Web/Frontend/Vue/给组件提供数据.md",
-    "Web/Frontend/JS/async.md",
     "Web/Backend/JDBC",
     "Web/Backend",
     "Web",
