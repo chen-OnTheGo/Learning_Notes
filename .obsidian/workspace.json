@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "Proposed Implementation"
             }
+          },
+          {
+            "id": "08bc9fc32888c097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explore/为什么删F盘里面的文件，越删F盘剩余的空间越少.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "为什么删F盘里面的文件，越删F盘剩余的空间越少"
+            }
+          },
+          {
+            "id": "27d239e91545d87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux文件权限概念"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/Linux文件权限概念.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Proposed Implementation 的大纲"
+              "title": "Linux文件权限概念 的大纲"
             }
           }
         ],
@@ -213,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,16 +252,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd69fec9dca5b06",
+  "active": "6047557b1dfb9b71",
   "lastOpenFiles": [
+    "Linear Algebra/特征向量和特征值.md",
+    "Explore/为什么有时候从百度网盘下载的压缩包里面的文件夹名是乱码.md",
+    "Explore/为什么删F盘里面的文件，越删F盘剩余的空间越少.md",
+    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
+    "Reading/读《少年汉尼拔》.md",
+    "Git/传项目到github远程仓库.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Implementation and Preview.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Detail Implementation.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/实现.md",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/Memory Segments.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM implement/静态变量.md",
     "项目所备知识/Nand2Tetris/内存/Memory（内存）.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
@@ -261,11 +296,6 @@
     "项目所备知识/Nand2Tetris/机器语言/输入输出设备.md",
     "项目所备知识/Nand2Tetris/机器语言/Hack语言规范.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return",
-    "Reading/读《玩笑》.md",
-    "Reading/读《活在此时此刻》.md",
-    "Reading/读《月亮与六便士》.md",
-    "Reading/读《我以为这辈子完蛋了》.md",
-    "LeetCode/贪心算法/452. 用最少数量的箭引爆气球.md",
     "Web/Backend/JDBC",
     "Web/Backend",
     "Web",
