@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/如何修改文件属性与权限.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何修改文件属性与权限"
+              "title": "目录与文件的权限意义"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/如何修改文件属性与权限.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何修改文件属性与权限 的大纲"
+              "title": "目录与文件的权限意义 的大纲"
             }
           }
         ],
@@ -258,6 +258,13 @@
   },
   "active": "27d239e91545d87f",
   "lastOpenFiles": [
+    "img/Pasted image 20260402201454.png",
+    "img/Pasted image 20260402201403.png",
+    "img/Pasted image 20260402201313.png",
+    "img/Pasted image 20260402201148.png",
+    "img/Pasted image 20260402201138.png",
+    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/如何修改文件属性与权限.md",
+    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
     "img/Pasted image 20260401134610.png",
     "img/Pasted image 20260401131620.png",
     "img/Pasted image 20260401125146.png",
@@ -265,8 +272,6 @@
     "img/Pasted image 20260401124639.png",
     "img/Pasted image 20260401124348.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件属性.md",
-    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/如何修改文件属性与权限.md",
-    "img/Pasted image 20260401110659.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.5 正确的关机方法.md",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/日志.md",
@@ -290,11 +295,6 @@
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Run-time Simulation.md",
     "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/在Hack平台上实现虚拟机.md",
-    "img/Pasted image 20260227215026.png",
-    "img/Pasted image 20260227214925.png",
-    "img/Pasted image 20260227214950.png",
-    "img/Pasted image 20260227214836.png",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return",
     "Web/Backend/JDBC",
     "Web/Backend",
