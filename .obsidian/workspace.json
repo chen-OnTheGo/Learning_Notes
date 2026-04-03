@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件种类与扩展名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目录与文件的权限意义"
+              "title": "Linux文件种类与扩展名"
             }
           }
         ],
@@ -227,21 +227,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
+                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件种类与扩展名.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "目录与文件的权限意义 的大纲"
+              "title": "Linux文件种类与扩展名 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,19 +259,19 @@
   },
   "active": "27d239e91545d87f",
   "lastOpenFiles": [
+    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
+    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件种类与扩展名.md",
     "img/Pasted image 20260402201454.png",
     "img/Pasted image 20260402201403.png",
     "img/Pasted image 20260402201313.png",
     "img/Pasted image 20260402201148.png",
     "img/Pasted image 20260402201138.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/如何修改文件属性与权限.md",
-    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
     "img/Pasted image 20260401134610.png",
     "img/Pasted image 20260401131620.png",
     "img/Pasted image 20260401125146.png",
     "img/Pasted image 20260401125047.png",
     "img/Pasted image 20260401124639.png",
-    "img/Pasted image 20260401124348.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件属性.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.5 正确的关机方法.md",
