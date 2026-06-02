@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件种类与扩展名.md",
+                "file": "随笔/2026_6_2_接受.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux文件种类与扩展名"
+              "title": "2026_6_2_接受"
             }
           }
         ],
@@ -259,8 +259,12 @@
   },
   "active": "27d239e91545d87f",
   "lastOpenFiles": [
-    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
+    "随笔/未命名.md",
+    "随笔/2026_6_2_接受.md",
+    "img/Pasted image 20260602234809.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件种类与扩展名.md",
+    "未命名",
+    "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/目录与文件的权限意义.md",
     "img/Pasted image 20260402201454.png",
     "img/Pasted image 20260402201403.png",
     "img/Pasted image 20260402201313.png",
@@ -271,7 +275,6 @@
     "img/Pasted image 20260401131620.png",
     "img/Pasted image 20260401125146.png",
     "img/Pasted image 20260401125047.png",
-    "img/Pasted image 20260401124639.png",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念/Linux文件属性.md",
     "Linux/学《鸟哥的LINUX私房菜》/二、Linux文件、目录与磁盘格式/第5章_Linux的文件权限与目录配置/5.2_Linux文件权限概念",
     "Linux/学《鸟哥的LINUX私房菜》/第4章/4.5 正确的关机方法.md",
@@ -293,9 +296,6 @@
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Branching(分支).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Functions(Abstraction).md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Module4概述.md",
-    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Proposed Implementation.md",
-    "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return/Run-time Simulation.md",
-    "项目所备知识/Nand2Tetris/虚拟机/堆栈算术/虚拟机/VM Abstraction/the Stack.md",
     "项目所备知识/Nand2Tetris/虚拟机/程序控制/Function Call and Return",
     "Web/Backend/JDBC",
     "Web/Backend",
@@ -304,7 +304,6 @@
     "项目所备知识/梧桐杯/省决赛/构思阶段",
     "ComputerNetwork/计算机网络体系结构",
     "LeetCode/贪心算法",
-    "Linux/发现",
     "Linux/未命名.canvas",
     "未命名.canvas",
     "COA/计算机的发展.canvas"
